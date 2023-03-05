@@ -19,4 +19,5 @@ public class HistoryActivity extends AppCompatActivity {
         if (!history.equals(""))
             txtHistory.setText(history);
     }
+
 }
